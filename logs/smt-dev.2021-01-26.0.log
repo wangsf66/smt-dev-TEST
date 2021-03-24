@@ -1,0 +1,1096 @@
+2021-01-26 10:03:24.353 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$cd6b48f1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:25.318 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-26 10:03:26.967 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-26 10:03:26.972 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-26 10:03:27.112 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 113ms. Found 0 repository interfaces.
+2021-01-26 10:03:27.527 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=0fdc74a3-6d79-3631-91f2-5bc88dcb821e
+2021-01-26 10:03:27.756 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b15145f4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:27.804 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$cd6b48f1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:28.448 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8401 (http)
+2021-01-26 10:03:28.472 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:03:28.489 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-26 10:03:28.490 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-26 10:03:47.270 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ba3675a5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:48.619 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-26 10:03:51.135 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-26 10:03:51.172 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-26 10:03:51.421 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 184ms. Found 0 repository interfaces.
+2021-01-26 10:03:52.155 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=0fdc74a3-6d79-3631-91f2-5bc88dcb821e
+2021-01-26 10:03:52.554 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9e1c72a8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:52.623 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ba3675a5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:03:53.728 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8401 (http)
+2021-01-26 10:03:53.772 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:03:53.797 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-26 10:03:53.799 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-26 10:03:54.241 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-01-26 10:03:54.242 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 5584 ms
+2021-01-26 10:03:54.634 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-01-26 10:03:55.154 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-01-26 10:03:57.373 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-01-26 10:03:57.377 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-01-26 10:03:59.654 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-01-26 10:03:59.688 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:03:59.689 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:03:59.700 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:03:59.701 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:04:04.034 [main] INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory.create -Setting initial instance status as: STARTING
+2021-01-26 10:04:04.109 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Initializing Eureka in region us-east-1
+2021-01-26 10:04:04.260 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON encoding codec LegacyJacksonJson
+2021-01-26 10:04:04.260 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON decoding codec LegacyJacksonJson
+2021-01-26 10:04:04.839 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML encoding codec XStreamXml
+2021-01-26 10:04:04.840 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML decoding codec XStreamXml
+2021-01-26 10:04:05.445 [main] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:04:05.899 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Disable delta property : false
+2021-01-26 10:04:05.900 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Single vip registry refresh property : null
+2021-01-26 10:04:05.900 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Force full registry fetch : false
+2021-01-26 10:04:05.900 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application is null : false
+2021-01-26 10:04:05.901 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Registered Applications size is zero : true
+2021-01-26 10:04:05.901 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application version is -1: true
+2021-01-26 10:04:05.901 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -Getting all instance registry info from the eureka server
+2021-01-26 10:04:06.212 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -The response status is 200
+2021-01-26 10:04:06.220 [main] INFO com.netflix.discovery.DiscoveryClient.initScheduledTasks -Starting heartbeat executor: renew interval is: 30
+2021-01-26 10:04:06.228 [main] INFO com.netflix.discovery.InstanceInfoReplicator.<init> -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-01-26 10:04:06.238 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Discovery Client initialized at timestamp 1611626646236 with initial instances count: 10
+2021-01-26 10:04:06.243 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry.register -Registering application SMT-DEV-TEST-WSF with eureka with status UP
+2021-01-26 10:04:06.243 [main] INFO com.netflix.discovery.DiscoveryClient.notify -Saw local status change event StatusChangeEvent [timestamp=1611626646243, current=UP, previous=STARTING]
+2021-01-26 10:04:06.248 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401: registering service...
+2021-01-26 10:04:06.278 [main] INFO com.douglei.aop.ProxyBeanContainer.destroy -[com.douglei.aop.ProxyBeanContainer]被销毁, 数量为[17]
+2021-01-26 10:04:06.280 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Starting ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:04:06.326 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start -Tomcat started on port(s): 8401 (http) with context path ''
+2021-01-26 10:04:06.328 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration.onApplicationEvent -Updating port to 8401
+2021-01-26 10:04:06.339 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401 - registration status: 204
+2021-01-26 10:04:06.974 [main] INFO com.smt.dev.SmtDevApplication.logStarted -Started SmtDevApplication in 22.083 seconds (JVM running for 24.609)
+2021-01-26 10:05:02.057 [http-nio-8401-exec-1] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-26 10:05:02.058 [http-nio-8401-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Initializing Servlet 'dispatcherServlet'
+2021-01-26 10:05:02.079 [http-nio-8401-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Completed initialization in 21 ms
+2021-01-26 10:06:47.483 [http-nio-8401-exec-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:06:47.554 [http-nio-8401-exec-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-smt-cfg-wsf
+2021-01-26 10:06:47.557 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: smt-cfg-wsf instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=smt-cfg-wsf,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-01-26 10:06:47.574 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-01-26 10:06:47.635 [http-nio-8401-exec-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:06:47.639 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client smt-cfg-wsf initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=smt-cfg-wsf,current list of Servers=[sinoDept004:8403],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:sinoDept004:8403;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@b05656a
+2021-01-26 10:06:48.303 [http-nio-8401-exec-1] ERROR com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery -在查询数据时出现异常: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:06:48.314 [http-nio-8401-exec-1] ERROR com.douglei.orm.context.SessionWrapper.throwThrowables -java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:06:48.334 [http-nio-8401-exec-1] ERROR com.ibs.spring.resolver.exception.GlobalExceptionHandler.resolveException -系统出现异常: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:06:48.341 [http-nio-8401-exec-1] ERROR com.ibs.components.response.ExceptionResponseData.<init> -操作出现异常: java.lang.NullPointerException: 响应体为null
+	at com.ibs.components.response.ResponseContext.getFinalResponse(ResponseContext.java:28)
+	at com.ibs.components.response.ResponseContext.getExceptionResponse(ResponseContext.java:39)
+	at com.ibs.spring.resolver.exception.GlobalExceptionHandler.resolveException(GlobalExceptionHandler.java:32)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1297)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1109)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+
+2021-01-26 10:06:48.343 [http-nio-8401-exec-1] ERROR com.ibs.components.response.ExceptionResponseData.<init> -操作出现异常: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:06:48.582 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:06:48.585 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:06:48.597 [ibs-thread-pool-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-ibs-log
+2021-01-26 10:06:48.598 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: ibs-log instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-01-26 10:06:48.610 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-01-26 10:06:48.614 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:06:48.617 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client ibs-log initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[WIN-O2QE76CK36G:8102],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:WIN-O2QE76CK36G:8102;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@2afa5ca0
+2021-01-26 10:06:49.614 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:07:16.602 [http-nio-8401-exec-3] ERROR com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery -在查询数据时出现异常: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:07:16.606 [http-nio-8401-exec-3] ERROR com.douglei.orm.context.SessionWrapper.throwThrowables -java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:07:16.608 [http-nio-8401-exec-3] ERROR com.ibs.spring.resolver.exception.GlobalExceptionHandler.resolveException -系统出现异常: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:07:16.611 [http-nio-8401-exec-3] ERROR com.ibs.components.response.ExceptionResponseData.<init> -操作出现异常: java.lang.NullPointerException: 响应体为null
+	at com.ibs.components.response.ResponseContext.getFinalResponse(ResponseContext.java:28)
+	at com.ibs.components.response.ResponseContext.getExceptionResponse(ResponseContext.java:39)
+	at com.ibs.spring.resolver.exception.GlobalExceptionHandler.resolveException(GlobalExceptionHandler.java:32)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1297)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1109)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+
+2021-01-26 10:07:16.613 [http-nio-8401-exec-3] ERROR com.ibs.components.response.ExceptionResponseData.<init> -操作出现异常: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.douglei.aop.ProxyBeanFactory.coreInvoke(ProxyBeanFactory.java:114)
+	at com.douglei.aop.ProxyBeanFactory.access$000(ProxyBeanFactory.java:20)
+	at com.douglei.aop.ProxyBeanFactory$2.intercept(ProxyBeanFactory.java:56)
+	at com.smartone.ddm.resource.service.DmServiceService$$EnhancerByCGLIB$$1b843e83.syncMenuData(<generated>)
+	at com.smartone.ddm.resource.controller.DmServiceController.syncModelData(DmServiceController.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.param.parser.ParamParserFilter.doFilter(ParamParserFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.token.TokenValidateFilter.doFilter(TokenValidateFilter.java:41)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.log.core.filter.LogFilter.doFilter(LogFilter.java:37)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.request.header.RequestHeaderFilter.doFilter(RequestHeaderFilter.java:25)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.ibs.components.filters.cors.CorsFilter.doFilter(CorsFilter.java:45)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.douglei.orm.sessionfactory.sessions.SessionExecutionException: 在查询数据时出现异常, 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:136)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:151)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:146)
+	at com.smartone.ddm.resource.service.DmServiceService.publishData(DmServiceService.java:225)
+	at com.smartone.ddm.resource.service.DmServiceService.syncMenuData(DmServiceService.java:201)
+	... 78 more
+Caused by: com.douglei.orm.sql.statement.StatementExecutionException: 在执行sql=[select * from DM_DATA_PUBLISH_TARGET where OBJECT_ID = 'k2oRgNTnf1ilUaUtIG7BrRpYlDjOJgRDIJR2' and REF_DATA_ID = 'KfMEd3gjqjJS2Yy7EL5ZXNo89sbVlHGE']语句时出现异常, 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:58)
+	at com.douglei.orm.sessionfactory.sessions.sqlsession.impl.SqlSessionImpl.uniqueQuery(SqlSessionImpl.java:133)
+	... 82 more
+Caused by: com.douglei.orm.sql.statement.NonUniqueDataException: 进行唯一查询时, 查询出多条数据
+	at com.douglei.orm.sql.statement.AbstractStatementHandler.executeUniqueQuery(AbstractStatementHandler.java:116)
+	at com.douglei.orm.sql.statement.impl.StatementHandlerImpl.executeQueryUniqueResult(StatementHandlerImpl.java:56)
+	... 83 more
+
+2021-01-26 10:09:05.906 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:14:05.907 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:19:05.908 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:24:05.910 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:29:05.911 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:33:11.545 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$6d30854e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:33:12.384 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-26 10:33:13.928 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-26 10:33:13.933 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-26 10:33:14.079 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 113ms. Found 0 repository interfaces.
+2021-01-26 10:33:14.502 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=0fdc74a3-6d79-3631-91f2-5bc88dcb821e
+2021-01-26 10:33:14.702 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$51168251] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:33:14.745 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$6d30854e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:33:15.355 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8401 (http)
+2021-01-26 10:33:15.379 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:33:15.397 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-26 10:33:15.397 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-26 10:33:15.692 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-01-26 10:33:15.693 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 3287 ms
+2021-01-26 10:33:15.910 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-01-26 10:33:16.161 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-01-26 10:33:17.532 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-01-26 10:33:17.535 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-01-26 10:33:19.680 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-01-26 10:33:19.706 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:33:19.706 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:33:19.716 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:33:19.716 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:33:22.798 [main] INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory.create -Setting initial instance status as: STARTING
+2021-01-26 10:33:22.875 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Initializing Eureka in region us-east-1
+2021-01-26 10:33:23.286 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON encoding codec LegacyJacksonJson
+2021-01-26 10:33:23.287 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON decoding codec LegacyJacksonJson
+2021-01-26 10:33:23.592 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML encoding codec XStreamXml
+2021-01-26 10:33:23.592 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML decoding codec XStreamXml
+2021-01-26 10:33:24.215 [main] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:33:24.747 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Disable delta property : false
+2021-01-26 10:33:24.748 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Single vip registry refresh property : null
+2021-01-26 10:33:24.749 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Force full registry fetch : false
+2021-01-26 10:33:24.749 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application is null : false
+2021-01-26 10:33:24.749 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Registered Applications size is zero : true
+2021-01-26 10:33:24.750 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application version is -1: true
+2021-01-26 10:33:24.750 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -Getting all instance registry info from the eureka server
+2021-01-26 10:33:25.069 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -The response status is 200
+2021-01-26 10:33:25.074 [main] INFO com.netflix.discovery.DiscoveryClient.initScheduledTasks -Starting heartbeat executor: renew interval is: 30
+2021-01-26 10:33:25.080 [main] INFO com.netflix.discovery.InstanceInfoReplicator.<init> -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-01-26 10:33:25.088 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Discovery Client initialized at timestamp 1611628405086 with initial instances count: 10
+2021-01-26 10:33:25.095 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry.register -Registering application SMT-DEV-TEST-WSF with eureka with status UP
+2021-01-26 10:33:25.096 [main] INFO com.netflix.discovery.DiscoveryClient.notify -Saw local status change event StatusChangeEvent [timestamp=1611628405096, current=UP, previous=STARTING]
+2021-01-26 10:33:25.099 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401: registering service...
+2021-01-26 10:33:25.124 [main] INFO com.douglei.aop.ProxyBeanContainer.destroy -[com.douglei.aop.ProxyBeanContainer]被销毁, 数量为[17]
+2021-01-26 10:33:25.126 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Starting ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:33:25.171 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start -Tomcat started on port(s): 8401 (http) with context path ''
+2021-01-26 10:33:25.173 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration.onApplicationEvent -Updating port to 8401
+2021-01-26 10:33:25.190 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401 - registration status: 204
+2021-01-26 10:33:25.770 [main] INFO com.smt.dev.SmtDevApplication.logStarted -Started SmtDevApplication in 15.879 seconds (JVM running for 17.865)
+2021-01-26 10:33:55.116 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$c6d69c10] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:34:03.740 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$b76fa906] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:34:04.589 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-26 10:34:06.164 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-26 10:34:06.170 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-26 10:34:06.310 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 114ms. Found 0 repository interfaces.
+2021-01-26 10:34:06.736 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=0fdc74a3-6d79-3631-91f2-5bc88dcb821e
+2021-01-26 10:34:06.944 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9b55a609] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:34:06.990 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$b76fa906] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-26 10:34:07.640 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8401 (http)
+2021-01-26 10:34:07.666 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:34:07.685 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-26 10:34:07.686 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-26 10:34:07.990 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-01-26 10:34:07.990 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 3379 ms
+2021-01-26 10:34:08.257 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-01-26 10:34:08.524 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-01-26 10:34:10.010 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-01-26 10:34:10.014 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-01-26 10:34:11.949 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-01-26 10:34:11.971 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:34:11.971 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:34:11.980 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-26 10:34:11.981 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-26 10:34:14.853 [main] INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory.create -Setting initial instance status as: STARTING
+2021-01-26 10:34:14.926 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Initializing Eureka in region us-east-1
+2021-01-26 10:34:15.353 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON encoding codec LegacyJacksonJson
+2021-01-26 10:34:15.354 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON decoding codec LegacyJacksonJson
+2021-01-26 10:34:15.569 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML encoding codec XStreamXml
+2021-01-26 10:34:15.569 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML decoding codec XStreamXml
+2021-01-26 10:34:16.135 [main] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:34:16.554 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Disable delta property : false
+2021-01-26 10:34:16.555 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Single vip registry refresh property : null
+2021-01-26 10:34:16.555 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Force full registry fetch : false
+2021-01-26 10:34:16.555 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application is null : false
+2021-01-26 10:34:16.556 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Registered Applications size is zero : true
+2021-01-26 10:34:16.556 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application version is -1: true
+2021-01-26 10:34:16.556 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -Getting all instance registry info from the eureka server
+2021-01-26 10:34:16.852 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -The response status is 200
+2021-01-26 10:34:16.858 [main] INFO com.netflix.discovery.DiscoveryClient.initScheduledTasks -Starting heartbeat executor: renew interval is: 30
+2021-01-26 10:34:16.862 [main] INFO com.netflix.discovery.InstanceInfoReplicator.<init> -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-01-26 10:34:16.870 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Discovery Client initialized at timestamp 1611628456868 with initial instances count: 10
+2021-01-26 10:34:16.874 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry.register -Registering application SMT-DEV-TEST-WSF with eureka with status UP
+2021-01-26 10:34:16.875 [main] INFO com.netflix.discovery.DiscoveryClient.notify -Saw local status change event StatusChangeEvent [timestamp=1611628456875, current=UP, previous=STARTING]
+2021-01-26 10:34:16.879 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401: registering service...
+2021-01-26 10:34:16.900 [main] INFO com.douglei.aop.ProxyBeanContainer.destroy -[com.douglei.aop.ProxyBeanContainer]被销毁, 数量为[17]
+2021-01-26 10:34:16.901 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Starting ProtocolHandler ["http-nio-8401"]
+2021-01-26 10:34:16.948 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start -Tomcat started on port(s): 8401 (http) with context path ''
+2021-01-26 10:34:16.950 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration.onApplicationEvent -Updating port to 8401
+2021-01-26 10:34:16.968 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8401 - registration status: 204
+2021-01-26 10:34:17.556 [main] INFO com.smt.dev.SmtDevApplication.logStarted -Started SmtDevApplication in 15.602 seconds (JVM running for 17.622)
+2021-01-26 10:34:55.156 [http-nio-8401-exec-1] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-26 10:34:55.156 [http-nio-8401-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Initializing Servlet 'dispatcherServlet'
+2021-01-26 10:34:55.179 [http-nio-8401-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Completed initialization in 22 ms
+2021-01-26 10:35:10.818 [http-nio-8401-exec-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:35:10.881 [http-nio-8401-exec-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-smt-cfg-wsf
+2021-01-26 10:35:10.883 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: smt-cfg-wsf instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=smt-cfg-wsf,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-01-26 10:35:10.896 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-01-26 10:35:10.943 [http-nio-8401-exec-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:35:10.947 [http-nio-8401-exec-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client smt-cfg-wsf initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=smt-cfg-wsf,current list of Servers=[sinoDept004:8403],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:sinoDept004:8403;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@d6eec14
+2021-01-26 10:35:11.903 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: smt-cfg-wsf.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:35:31.587 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:35:31.592 [ibs-thread-pool-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-ibs-log
+2021-01-26 10:35:31.594 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: ibs-log instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-01-26 10:35:31.600 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-01-26 10:35:31.604 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:35:31.607 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client ibs-log initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[WIN-O2QE76CK36G:8102],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:WIN-O2QE76CK36G:8102;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@36f17732
+2021-01-26 10:35:32.603 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-26 10:39:16.560 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:44:16.562 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:49:16.564 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-26 10:54:16.566 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration

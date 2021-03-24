@@ -1,0 +1,88 @@
+2021-03-11 15:18:53.533 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$9cd0fc35] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-11 15:18:54.631 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-03-11 15:18:56.855 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-03-11 15:18:56.861 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-03-11 15:18:57.016 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 125ms. Found 0 repository interfaces.
+2021-03-11 15:18:57.574 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=9bfd5f1e-8f1d-313b-b3df-20d7c370c0cf
+2021-03-11 15:18:57.837 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$80b6f938] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-11 15:18:57.886 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$9cd0fc35] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-11 15:18:58.744 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8405 (http)
+2021-03-11 15:18:58.775 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8405"]
+2021-03-11 15:18:58.795 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-03-11 15:18:58.795 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-03-11 15:18:59.181 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-03-11 15:18:59.182 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 4508 ms
+2021-03-11 15:18:59.653 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-03-11 15:19:00.008 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-03-11 15:19:01.817 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-03-11 15:19:01.821 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-03-11 15:19:04.040 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-03-11 15:19:04.064 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-03-11 15:19:04.064 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-03-11 15:19:04.074 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-03-11 15:19:04.074 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-03-11 15:19:07.469 [main] INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory.create -Setting initial instance status as: STARTING
+2021-03-11 15:19:07.551 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Initializing Eureka in region us-east-1
+2021-03-11 15:19:08.093 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON encoding codec LegacyJacksonJson
+2021-03-11 15:19:08.094 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON decoding codec LegacyJacksonJson
+2021-03-11 15:19:08.337 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML encoding codec XStreamXml
+2021-03-11 15:19:08.338 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML decoding codec XStreamXml
+2021-03-11 15:19:08.915 [main] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:19:09.417 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Disable delta property : false
+2021-03-11 15:19:09.418 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Single vip registry refresh property : null
+2021-03-11 15:19:09.418 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Force full registry fetch : false
+2021-03-11 15:19:09.419 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application is null : false
+2021-03-11 15:19:09.419 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Registered Applications size is zero : true
+2021-03-11 15:19:09.420 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application version is -1: true
+2021-03-11 15:19:09.421 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -Getting all instance registry info from the eureka server
+2021-03-11 15:19:09.780 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -The response status is 200
+2021-03-11 15:19:09.785 [main] INFO com.netflix.discovery.DiscoveryClient.initScheduledTasks -Starting heartbeat executor: renew interval is: 30
+2021-03-11 15:19:09.790 [main] INFO com.netflix.discovery.InstanceInfoReplicator.<init> -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-03-11 15:19:09.797 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Discovery Client initialized at timestamp 1615447149795 with initial instances count: 5
+2021-03-11 15:19:09.801 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry.register -Registering application SMT-DEV-TEST-1 with eureka with status UP
+2021-03-11 15:19:09.802 [main] INFO com.netflix.discovery.DiscoveryClient.notify -Saw local status change event StatusChangeEvent [timestamp=1615447149802, current=UP, previous=STARTING]
+2021-03-11 15:19:09.806 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-1/sinoDept004:smt-dev-test-1:8405: registering service...
+2021-03-11 15:19:09.831 [main] INFO com.douglei.aop.ProxyBeanContainer.destroy -[com.douglei.aop.ProxyBeanContainer]被销毁, 数量为[19]
+2021-03-11 15:19:09.832 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Starting ProtocolHandler ["http-nio-8405"]
+2021-03-11 15:19:09.892 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start -Tomcat started on port(s): 8405 (http) with context path ''
+2021-03-11 15:19:09.895 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration.onApplicationEvent -Updating port to 8405
+2021-03-11 15:19:09.906 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-1/sinoDept004:smt-dev-test-1:8405 - registration status: 204
+2021-03-11 15:19:10.631 [main] INFO com.smt.dev.SmtDevApplication.logStarted -Started SmtDevApplication in 19.33 seconds (JVM running for 22.027)
+2021-03-11 15:19:48.584 [http-nio-8405-exec-1] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-11 15:19:48.586 [http-nio-8405-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Initializing Servlet 'dispatcherServlet'
+2021-03-11 15:19:48.605 [http-nio-8405-exec-1] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Completed initialization in 19 ms
+2021-03-11 15:19:49.766 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-03-11 15:19:49.861 [ibs-thread-pool-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-ibs-log
+2021-03-11 15:19:49.863 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: ibs-log instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-03-11 15:19:49.877 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-03-11 15:19:49.942 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-03-11 15:19:49.947 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client ibs-log initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[WIN-O2QE76CK36G:8102],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:WIN-O2QE76CK36G:8102;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@40ff4625
+2021-03-11 15:19:50.885 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-03-11 15:24:09.426 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:29:09.427 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:34:09.429 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:39:09.431 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:44:09.433 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:49:09.434 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:54:09.437 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 15:59:09.439 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:04:09.442 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:09:09.443 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:14:09.445 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:19:09.448 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:24:09.449 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:29:09.451 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:34:09.452 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:39:09.454 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:44:27.925 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:49:27.928 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:54:27.930 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 16:59:27.932 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 17:14:34.031 [DiscoveryClient-CacheRefreshExecutor-0] INFO org.apache.http.impl.client.DefaultHttpClient.tryExecute -I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.1.111:8101: Connection reset
+2021-03-11 17:14:34.032 [DiscoveryClient-CacheRefreshExecutor-0] INFO org.apache.http.impl.client.DefaultHttpClient.tryExecute -Retrying request to {}->http://192.168.1.111:8101
+2021-03-11 17:15:02.491 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 17:20:02.492 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 17:25:02.494 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-03-11 17:31:30.811 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration

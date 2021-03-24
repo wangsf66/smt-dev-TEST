@@ -1,0 +1,71 @@
+2021-01-18 15:58:03.388 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e91e1bf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-18 15:58:04.277 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-18 15:58:06.084 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-18 15:58:06.090 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-18 15:58:06.240 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 127ms. Found 0 repository interfaces.
+2021-01-18 15:58:06.682 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=839dc71d-0609-3431-93fd-f1f46d201101
+2021-01-18 15:58:06.913 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cd0418f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-18 15:58:06.979 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$e91e1bf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-18 15:58:07.646 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8401 (http)
+2021-01-18 15:58:07.673 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8401"]
+2021-01-18 15:58:07.690 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-18 15:58:07.691 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-18 15:58:08.013 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-01-18 15:58:08.014 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 3709 ms
+2021-01-18 15:58:08.252 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-01-18 15:58:08.536 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-01-18 15:58:09.996 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-01-18 15:58:10.000 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-01-18 15:58:12.103 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-01-18 15:58:12.127 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-18 15:58:12.128 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-18 15:58:12.135 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-18 15:58:12.136 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-18 15:58:12.653 [main] WARN org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext.refresh -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dmBusiModelController' method 
+public com.ibs.components.response.Response com.smt.dev.publish.override.controller.DmBusiModelController.delete(javax.servlet.http.HttpServletRequest)
+to {DELETE [/busimodel/delete, /cfgBusiModel/delete]}: There is already 'dmCfgBusiModelController' bean method
+public com.ibs.components.response.Response com.smartone.ddm.busimodel.controller.DmCfgBusiModelController.delete(javax.servlet.http.HttpServletRequest) mapped.
+2021-01-18 15:58:12.656 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown -Shutting down ExecutorService 'threadPool'
+2021-01-18 15:58:13.786 [main] INFO com.alibaba.druid.pool.DruidDataSource.close -{dataSource-1} closing ...
+2021-01-18 15:58:13.793 [main] INFO com.alibaba.druid.pool.DruidDataSource.close -{dataSource-1} closed
+2021-01-18 15:58:13.795 [main] INFO org.apache.catalina.core.StandardService.log -Stopping service [Tomcat]
+2021-01-18 15:58:13.813 [main] INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener.logMessage -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-01-18 15:58:13.830 [main] ERROR org.springframework.boot.SpringApplication.reportFailure -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dmBusiModelController' method 
+public com.ibs.components.response.Response com.smt.dev.publish.override.controller.DmBusiModelController.delete(javax.servlet.http.HttpServletRequest)
+to {DELETE [/busimodel/delete, /cfgBusiModel/delete]}: There is already 'dmCfgBusiModelController' bean method
+public com.ibs.components.response.Response com.smartone.ddm.busimodel.controller.DmCfgBusiModelController.delete(javax.servlet.http.HttpServletRequest) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1778)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:849)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.smt.dev.SmtDevApplication.main(SmtDevApplication.java:17)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dmBusiModelController' method 
+public com.ibs.components.response.Response com.smt.dev.publish.override.controller.DmBusiModelController.delete(javax.servlet.http.HttpServletRequest)
+to {DELETE [/busimodel/delete, /cfgBusiModel/delete]}: There is already 'dmCfgBusiModelController' bean method
+public com.ibs.components.response.Response com.smartone.ddm.busimodel.controller.DmCfgBusiModelController.delete(javax.servlet.http.HttpServletRequest) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.assertUniqueMethodMapping(AbstractHandlerMethodMapping.java:618)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:586)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:312)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:282)
+	at java.util.LinkedHashMap.forEach(Unknown Source)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:252)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:211)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:199)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:164)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1837)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1774)
+	... 14 common frames omitted

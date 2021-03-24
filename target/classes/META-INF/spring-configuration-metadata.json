@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "smt.dev.resource",
+      "type": "com.smt.dev.publish.util.ResourceProperties",
+      "sourceType": "com.smt.dev.publish.util.ResourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "smt.dev.resource.folder",
+      "type": "java.lang.String",
+      "sourceType": "com.smt.dev.publish.util.ResourceProperties"
+    }
+  ],
+  "hints": []
+}

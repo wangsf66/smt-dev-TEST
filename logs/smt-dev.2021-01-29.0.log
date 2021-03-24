@@ -1,0 +1,153 @@
+2021-01-29 15:35:35.560 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$da65f901] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-29 15:35:36.481 [main] INFO com.smt.dev.SmtDevApplication.logStartupProfileInfo -No active profile set, falling back to default profiles: default
+2021-01-29 15:35:38.340 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected -Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-01-29 15:35:38.347 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-01-29 15:35:38.532 [main] INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn -Finished Spring Data repository scanning in 137ms. Found 0 repository interfaces.
+2021-01-29 15:35:39.018 [main] INFO org.springframework.cloud.context.scope.GenericScope.setSerializationId -BeanFactory id=0fdc74a3-6d79-3631-91f2-5bc88dcb821e
+2021-01-29 15:35:39.239 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$be4bf604] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-29 15:35:39.311 [main] INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$da65f901] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-29 15:35:40.061 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize -Tomcat initialized with port(s): 8405 (http)
+2021-01-29 15:35:40.089 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Initializing ProtocolHandler ["http-nio-8405"]
+2021-01-29 15:35:40.108 [main] INFO org.apache.catalina.core.StandardService.log -Starting service [Tomcat]
+2021-01-29 15:35:40.109 [main] INFO org.apache.catalina.core.StandardEngine.log -Starting Servlet engine: [Apache Tomcat/9.0.17]
+2021-01-29 15:35:40.440 [main] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring embedded WebApplicationContext
+2021-01-29 15:35:40.441 [main] INFO org.springframework.web.context.ContextLoader.prepareWebApplicationContext -Root WebApplicationContext: initialization completed in 3934 ms
+2021-01-29 15:35:40.691 [main] INFO com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure.dataSource -Init DruidDataSource
+2021-01-29 15:35:40.992 [main] INFO com.alibaba.druid.pool.DruidDataSource.init -{dataSource-1} inited
+2021-01-29 15:35:42.567 [main] INFO io.lettuce.core.EpollProvider.<clinit> -Starting without optional epoll library
+2021-01-29 15:35:42.570 [main] INFO io.lettuce.core.KqueueProvider.<clinit> -Starting without optional kqueue library
+2021-01-29 15:35:44.718 [main] INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.initialize -Initializing ExecutorService 'threadPool'
+2021-01-29 15:35:44.742 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-29 15:35:44.743 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-29 15:35:44.752 [main] WARN com.netflix.config.sources.URLConfigurationSource.<init> -No URLs will be polled as dynamic configuration sources.
+2021-01-29 15:35:44.752 [main] INFO com.netflix.config.sources.URLConfigurationSource.<init> -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2021-01-29 15:35:47.837 [main] INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory.create -Setting initial instance status as: STARTING
+2021-01-29 15:35:47.921 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Initializing Eureka in region us-east-1
+2021-01-29 15:35:48.406 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON encoding codec LegacyJacksonJson
+2021-01-29 15:35:48.406 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using JSON decoding codec LegacyJacksonJson
+2021-01-29 15:35:48.640 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML encoding codec XStreamXml
+2021-01-29 15:35:48.641 [main] INFO com.netflix.discovery.provider.DiscoveryJerseyProvider.<init> -Using XML decoding codec XStreamXml
+2021-01-29 15:35:49.245 [main] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 15:35:49.700 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Disable delta property : false
+2021-01-29 15:35:49.701 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Single vip registry refresh property : null
+2021-01-29 15:35:49.701 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Force full registry fetch : false
+2021-01-29 15:35:49.701 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application is null : false
+2021-01-29 15:35:49.702 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Registered Applications size is zero : true
+2021-01-29 15:35:49.702 [main] INFO com.netflix.discovery.DiscoveryClient.fetchRegistry -Application version is -1: true
+2021-01-29 15:35:49.702 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -Getting all instance registry info from the eureka server
+2021-01-29 15:35:50.044 [main] INFO com.netflix.discovery.DiscoveryClient.getAndStoreFullRegistry -The response status is 200
+2021-01-29 15:35:50.050 [main] INFO com.netflix.discovery.DiscoveryClient.initScheduledTasks -Starting heartbeat executor: renew interval is: 30
+2021-01-29 15:35:50.055 [main] INFO com.netflix.discovery.InstanceInfoReplicator.<init> -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2021-01-29 15:35:50.062 [main] INFO com.netflix.discovery.DiscoveryClient.<init> -Discovery Client initialized at timestamp 1611905750060 with initial instances count: 7
+2021-01-29 15:35:50.067 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry.register -Registering application SMT-DEV-TEST-WSF with eureka with status UP
+2021-01-29 15:35:50.068 [main] INFO com.netflix.discovery.DiscoveryClient.notify -Saw local status change event StatusChangeEvent [timestamp=1611905750068, current=UP, previous=STARTING]
+2021-01-29 15:35:50.072 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8405: registering service...
+2021-01-29 15:35:50.094 [main] INFO com.douglei.aop.ProxyBeanContainer.destroy -[com.douglei.aop.ProxyBeanContainer]被销毁, 数量为[17]
+2021-01-29 15:35:50.095 [main] INFO org.apache.coyote.http11.Http11NioProtocol.log -Starting ProtocolHandler ["http-nio-8405"]
+2021-01-29 15:35:50.136 [main] INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start -Tomcat started on port(s): 8405 (http) with context path ''
+2021-01-29 15:35:50.138 [main] INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration.onApplicationEvent -Updating port to 8405
+2021-01-29 15:35:50.153 [DiscoveryClient-InstanceInfoReplicator-0] INFO com.netflix.discovery.DiscoveryClient.register -DiscoveryClient_SMT-DEV-TEST-WSF/sinoDept004:smt-dev-test-wsf:8405 - registration status: 204
+2021-01-29 15:35:50.793 [main] INFO com.smt.dev.SmtDevApplication.logStarted -Started SmtDevApplication in 17.206 seconds (JVM running for 19.782)
+2021-01-29 15:36:48.293 [http-nio-8405-exec-2] INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-29 15:36:48.293 [http-nio-8405-exec-2] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Initializing Servlet 'dispatcherServlet'
+2021-01-29 15:36:48.312 [http-nio-8405-exec-2] INFO org.springframework.web.servlet.DispatcherServlet.initServletBean -Completed initialization in 18 ms
+2021-01-29 15:36:48.903 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-29 15:36:48.962 [ibs-thread-pool-1] INFO com.netflix.util.concurrent.ShutdownEnabledTimer.<init> -Shutdown hook installed for: NFLoadBalancer-PingTimer-ibs-log
+2021-01-29 15:36:48.963 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.BaseLoadBalancer.initWithConfig -Client: ibs-log instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2021-01-29 15:36:48.974 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.enableAndInitLearnNewServersFeature -Using serverListUpdater PollingServerListUpdater
+2021-01-29 15:36:49.024 [ibs-thread-pool-1] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-29 15:36:49.027 [ibs-thread-pool-1] INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer.restOfInit -DynamicServerListLoadBalancer for client ibs-log initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=ibs-log,current list of Servers=[WIN-O2QE76CK36G:8102],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:WIN-O2QE76CK36G:8102;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@f60c306
+2021-01-29 15:36:49.981 [PollingServerListUpdater-0] INFO com.netflix.config.ChainedDynamicProperty.checkAndFlip -Flipping property: ibs-log.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2021-01-29 15:40:49.707 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 15:45:52.000 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 15:50:52.002 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 15:55:52.004 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:00:52.007 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:05:52.008 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:10:52.009 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:15:52.011 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:20:52.013 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:25:52.015 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:30:52.017 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:35:52.018 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:40:52.020 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:45:52.024 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:50:52.025 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 16:55:52.027 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:00:52.028 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:05:52.029 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:10:52.030 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:15:52.033 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:20:52.035 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:25:52.036 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:30:52.038 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:35:52.039 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:40:52.041 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:45:52.042 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:50:52.044 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 17:55:52.045 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 18:00:52.047 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 18:02:40.082 [lettuce-nioEventLoop-4-1] INFO io.lettuce.core.protocol.CommandHandler.log -null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1125)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:677)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:612)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:529)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:491)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:905)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+2021-01-29 18:02:40.205 [lettuce-eventExecutorLoop-1-7] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost/127.0.0.1:6379
+2021-01-29 18:02:41.220 [lettuce-nioEventLoop-4-2] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:02:45.703 [lettuce-eventExecutorLoop-1-4] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:02:46.707 [lettuce-nioEventLoop-4-7] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:02:50.903 [lettuce-eventExecutorLoop-1-8] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:02:51.911 [lettuce-nioEventLoop-4-3] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:02:56.102 [lettuce-eventExecutorLoop-1-2] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:02:57.105 [lettuce-nioEventLoop-4-5] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:03:01.302 [lettuce-eventExecutorLoop-1-3] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:03:02.304 [lettuce-nioEventLoop-4-6] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:03:10.503 [lettuce-eventExecutorLoop-1-4] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:03:11.507 [lettuce-nioEventLoop-4-7] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:03:27.903 [lettuce-eventExecutorLoop-1-5] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:03:28.912 [lettuce-nioEventLoop-4-8] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:03:59.002 [lettuce-eventExecutorLoop-1-6] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:04:00.007 [lettuce-nioEventLoop-4-1] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:04:30.103 [lettuce-eventExecutorLoop-1-7] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:04:31.107 [lettuce-nioEventLoop-4-2] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:05:01.202 [lettuce-eventExecutorLoop-1-8] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:05:02.207 [lettuce-nioEventLoop-4-3] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:05:32.304 [lettuce-eventExecutorLoop-1-1] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:05:33.307 [lettuce-nioEventLoop-4-4] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:05:52.048 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration
+2021-01-29 18:06:03.403 [lettuce-eventExecutorLoop-1-2] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:06:04.412 [lettuce-nioEventLoop-4-5] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:06:34.501 [lettuce-eventExecutorLoop-1-3] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:06:35.506 [lettuce-nioEventLoop-4-6] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:07:05.602 [lettuce-eventExecutorLoop-1-4] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:07:06.604 [lettuce-nioEventLoop-4-7] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:07:36.703 [lettuce-eventExecutorLoop-1-5] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:07:37.706 [lettuce-nioEventLoop-4-8] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:08:07.802 [lettuce-eventExecutorLoop-1-6] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:08:08.806 [lettuce-nioEventLoop-4-1] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:08:38.902 [lettuce-eventExecutorLoop-1-7] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:08:39.911 [lettuce-nioEventLoop-4-2] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:09:10.004 [lettuce-eventExecutorLoop-1-8] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:09:11.007 [lettuce-nioEventLoop-4-3] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:09:41.102 [lettuce-eventExecutorLoop-1-1] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:09:42.107 [lettuce-nioEventLoop-4-4] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:10:12.203 [lettuce-eventExecutorLoop-1-2] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:10:13.207 [lettuce-nioEventLoop-4-5] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:10:43.302 [lettuce-eventExecutorLoop-1-3] INFO io.lettuce.core.protocol.ConnectionWatchdog.log -Reconnecting, last destination was localhost:6379
+2021-01-29 18:10:44.307 [lettuce-nioEventLoop-4-6] WARN io.lettuce.core.protocol.ConnectionWatchdog.log -Cannot reconnect: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:6379
+2021-01-29 18:10:52.049 [AsyncResolver-bootstrap-executor-0] INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver.getClusterEndpoints -Resolving eureka endpoints via configuration

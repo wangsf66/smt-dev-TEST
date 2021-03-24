@@ -1,0 +1,43 @@
+server:
+   max-http-header-size: 10000
+   port: 8405
+   #port: 8401
+ # port: 8201
+jdb:
+  orm:
+    data-source-close-method-name: close
+    
+spring:
+  redis:
+    host: localhost
+    port: 6379
+  datasource:
+        url: jdbc:sqlserver://localhost:1433;DatabaseName=SMT_DEV_TEST
+        username: sa
+        password: 123123
+#        url: jdbc:sqlserver://192.168.1.111:1433;DatabaseName=SMT_DEV
+#        username: sa
+#        password: 123_abc
+#        url: jdbc:sqlserver://192.168.1.111:1433;DatabaseName=SMT_DEV_TEST
+#        username: sa
+#        password: 123_abc
+        type: com.alibaba.druid.pool.DruidDataSource
+  application: 
+      name: smt-dev-test-2
+
+ibs:
+  parent:
+    cors:
+      access-control-allow-methods: GET,POST,PUT,DELETE
+      access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, _log, _token,token
+      access-control-max-age: 1800
+    filter:
+      enable-param-parser-filter: true
+
+# 指定该服务要注册进指定url的服务注册中心  
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.1.111:8101/eureka/
+
+

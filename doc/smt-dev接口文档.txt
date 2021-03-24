@@ -1,0 +1,21 @@
+1.资源发布接口
+API: http://192.168.1.111:8401/resource/publish?resourceId=xxxxxxxx
+请求方式: GET
+参数说明:	 resourceId 要发布的资源id
+
+2.固定数据发布接口
+API: http://192.168.1.111:8401/fixed_data/publish?tablenames=xxxxxxx
+请求方式: GET
+参数说明:	 tablenames 要发布固定数据的表名, 如果要全部发布, 则传入all, 不区分大小写; 或者多个表名用,分隔传入
+
+3.取消资源发布状态接口
+API: http://192.168.1.111:8401/resource/publish/state/cancel?resourceId=xxxxxxxx
+请求方式: GET
+参数说明:	 resourceId 资源id
+作用: 当资源发布后, 再修改资源的信息成功时, 再调用该接口, 即可让该资源变为需要重新发布的状态
+
+
+其他说明:
+1. 固定数据的资源名(即表名)只有: SMT_SETTING_FUNC, SMT_SETTING_PAGE, SMT_SETTING_LAYOUT
+2. 资源发布状态表, 表名为: DEV_PUBLISHING_INFO, 里面只有两个字段, ID, RESOURCE_ID, 表中存在的数据, 代表已经发布的资源; 没有发布的资源, 在本表中查询不到
+3. 在查询TABLE资源, SQL资源时, 请在查询语句中, 加入与 DEV_PUBLISHING_INFO 表的连接查询
